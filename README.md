@@ -17,7 +17,7 @@ Helloquiz shows four review buttons after each card: `again`, `hard`, `good`, `e
 
 ## Usage
 
-While reviewing cards on Helloquiz, press **E** at any point to mark the current card as "good" and move to the next one.
+While reviewing cards on Helloquiz, press **Space** at any point to mark the current card as "good" and move to the next one.
 
 ## Notes
 
