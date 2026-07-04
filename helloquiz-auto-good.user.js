@@ -19,7 +19,7 @@ document.addEventListener('keydown', function(e) {
 
   if (e.code === 'Space') {
     e.preventDefault(); // stop page from scrolling on spacebar
-    const goodBtn = document.querySelector('button[title="4"]');
+    const goodBtn = document.querySelector('button[title="3"]');
     if (goodBtn) {
       goodBtn.click();
     }
